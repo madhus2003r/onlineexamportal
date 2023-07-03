@@ -34,8 +34,3 @@ Password : 1121
 
 ---------------------------------------------------
 
-Don't forget to give credit to original author.
-Don't publish source code with your name.
-
--Nikhil B
-+91 9423979339 
